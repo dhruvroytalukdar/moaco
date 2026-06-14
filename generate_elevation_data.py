@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 from noise import pnoise2
 
 # --- Parameters ---
-GRID_SIZE = 50
+GRID_SIZE = 70
 
 # Lower scale makes the features smaller, creating more "chunks" across the 50x50 space.
 SCALE = 9.8
